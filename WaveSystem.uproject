@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{BC62DE0C-442F-7042-0A03-6E8F6AA5F1C4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WaveSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
