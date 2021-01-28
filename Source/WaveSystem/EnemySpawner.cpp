@@ -5,3 +5,8 @@ void AEnemySpawner::BeginPlay()
 {
 
 }
+
+void AEnemySpawner::calculateEnemyNumber()
+{
+	enemyNumber = (waveNumber * 5) - (waveNumber * 2);
+}
