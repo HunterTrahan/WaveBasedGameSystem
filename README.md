@@ -1,5 +1,5 @@
 ## Introduction
-A simple wasve based survival game system made using unreal engine 4
+Demonstration of a wave based game system made using unreal engine 4
 
 
 
